@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/yad_2/static/css/main.3dea76f9.css",
+    "main.js": "/yad_2/static/js/main.7949dc7d.js",
+    "static/media/jinjit2.png": "/yad_2/static/media/jinjit2.701d9a30fe971bec55e0.png",
+    "static/media/jinjit1.png": "/yad_2/static/media/jinjit1.0c9ab4cfd88a67649c07.png",
+    "static/media/header.png": "/yad_2/static/media/header.bfd9ea8bbcf713a4d067.png",
+    "static/media/ad2.jpg": "/yad_2/static/media/ad2.a2fba776d8654101aec0.jpg",
+    "static/media/sidebar.png": "/yad_2/static/media/sidebar.adc300953f621c428b40.png",
+    "static/media/ad3.jpg": "/yad_2/static/media/ad3.651e5d9393e304b60c16.jpg",
+    "static/media/girl.png": "/yad_2/static/media/girl.c3d284b39ebb069fcd90.png",
+    "static/media/yadBG.png": "/yad_2/static/media/yadBG.d7673bb914a26a36b9b0.png",
+    "static/media/PH.png": "/yad_2/static/media/PH.377c66f1bc46264861e4.png",
+    "static/media/ad1.gif": "/yad_2/static/media/ad1.a0341fad1661ae8f2ae3.gif",
+    "static/media/i2.jfif": "/yad_2/static/media/i2.8d847f193bfb6f5c7318.jfif",
+    "static/media/bell.png": "/yad_2/static/media/bell.cd0c309b62f77a7dc8bc.png",
+    "static/media/apple.png": "/yad_2/static/media/apple.eab2b3eca26073fc103a.png",
+    "static/media/i6.jfif": "/yad_2/static/media/i6.2ccdbda61d83d1dbbe78.jfif",
+    "static/media/piano.svg": "/yad_2/static/media/piano.df705bdfb7dbbbac04ae5f3445bc1315.svg",
+    "static/media/sidebar2.png": "/yad_2/static/media/sidebar2.2087ff8dc7087d92dd49.png",
+    "static/media/download_qr.png": "/yad_2/static/media/download_qr.23594dc7e344b71529b3.png",
+    "static/media/i4.jfif": "/yad_2/static/media/i4.6f0111d38203ec59e60c.jfif",
+    "static/media/i5.jfif": "/yad_2/static/media/i5.323e52a2851d145a790b.jfif",
+    "static/media/i8.jfif": "/yad_2/static/media/i8.acf526938dd5bb9e097c.jfif",
+    "static/media/i1.jfif": "/yad_2/static/media/i1.267a26dc9ce61b7ccf02.jfif",
+    "static/media/i7.jfif": "/yad_2/static/media/i7.9e41651e7731374b6254.jfif",
+    "static/media/i3.jfif": "/yad_2/static/media/i3.c64b2d7b38beefdde408.jfif",
+    "index.html": "/yad_2/index.html",
+    "static/media/heart.svg": "/yad_2/static/media/heart.35384cfe509651ff371d9982a7d8669b.svg",
+    "main.3dea76f9.css.map": "/yad_2/static/css/main.3dea76f9.css.map",
+    "main.7949dc7d.js.map": "/yad_2/static/js/main.7949dc7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dea76f9.css",
+    "static/js/main.7949dc7d.js"
+  ]
+}
